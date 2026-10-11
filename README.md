@@ -1,6 +1,6 @@
 # data-analysis-portfolio-
 My Data Analytics Portfolio showcasing Excel, SQL, and Power BI projects.
-Hello, I'm Folakemi Ayodeji Olayemi 
+Hello, I'm Ayodeji Folakemi Olayemi 
 
 Aspiring Data Analyst | Excel | SQL | Power BI | Python
 
