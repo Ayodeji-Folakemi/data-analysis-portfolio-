@@ -35,7 +35,7 @@ To help organizations turn data into actionable insights, improve business perfo
 Let's Connect
 
 - LinkedIn: [https://www.linkedin.com/in/folakemiayodeji?utm_source=share_via&utm_content=profile&utm_medium=member_android]
-- GitHub: [Insert your GitHub profile URL]
+- GitHub: [https://github.com/Ayodeji-Folakemi/data-analysis-portfolio]
 - Email: [folakemialayande86@gmail.com]
 
 I believe that data becomes valuable when it answers the right questions and inspires the right actions.
